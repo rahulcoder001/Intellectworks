@@ -1,7 +1,7 @@
 # Intellectworks
 I created all apis for CURD opretion in firebase authentication using nodejs
-step 1-> git clone 
-step 2-> npm i 
+step 1-> git clone https://github.com/rahulcoder001/Intellectworks.git,
+step 2-> npm i ,
 step 3-> check all endpoints
 
 user management api 
